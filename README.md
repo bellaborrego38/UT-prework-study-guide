@@ -1,2 +1,2 @@
 # prework-study-guide
-Project
+Boot Camp Prework Study Guide for Students 
